@@ -1,1 +1,2 @@
 Using GIT is powerful
+more fun working with git
